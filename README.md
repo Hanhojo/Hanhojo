@@ -1,2 +1,1 @@
-<h1 align="center">Hi 👋, I'm Hanhojo</h1>
-<h3 align="center">A student majoring in computer science from South Korea!</h3>
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=B0E2FF&height=300&section=header&text=Hanhojo's%20github&fontSize=70" />
